@@ -10,6 +10,10 @@ TagManager:
   - string
   - float_lvl
   - string_lvl
+  - Obstacle
+  - Red Collider
+  - Blue Collider
+  - Green Collider
   layers:
   - Default
   - TransparentFX
@@ -46,4 +50,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 219757957
     locked: 0

@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Variables.unity
     guid: 7256b1589f62d5f458ce6f1615d69977
+  - enabled: 1
+    path: Assets/Scenes/IF_ELSE Mode/if_Else_Level_Selection.unity
+    guid: 8485ff5103c99aa47bdf65fa6cd82db6
   m_configObjects: {}
