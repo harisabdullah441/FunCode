@@ -7,6 +7,10 @@
 3. Imrpove Decision Making Ability
 
 # Game Modes
+1. Variables
+2. If-Else
+3. Loops
+
 # Varialbe
 Player learn about different variable data types like Int, float and string. Player can drag and drop the numbers and alphabets into the Box object to learn about each data type.
 
