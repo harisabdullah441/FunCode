@@ -19,5 +19,6 @@ https://user-images.githubusercontent.com/127498002/233607261-3bc8a49f-ca59-4bfd
 # IF-Else
 [Inprogress] Player learn if-else concept by completing the current order. Player drag and drop the balls in if statement and if the color of the ball matches the color of if statement then if statement will execute and if color is not matched then else statement will execute.
 
-![if-else](https://user-images.githubusercontent.com/127498002/233762223-7cf38776-e755-4737-b0cc-96e0ce285b5c.PNG)
+Uploading If-Else Mode Gameplay.mp4…
+
 
