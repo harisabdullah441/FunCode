@@ -1,5 +1,5 @@
 # FunCode
-[Inprogress]-This is the current project I am working on. This is my University FYP project, in which I am creating an app for kids to learn basic coding concepts through visuals. Kids can learn about variables, loops, and conditional statements by performing drag-and-drop actions.
+This is my University FYP project, in which I am creating an app for kids to learn basic coding concepts through visuals. Kids can learn about variables, loops, and conditional statements by performing drag-and-drop actions.
 
 # Objective
 1. Motivate Kids to Learn to Code
